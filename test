@@ -9,3 +9,5 @@
 2025-01-10 09:22:40 WARN user=john service=api ip=10.0.0.8 status=SUCCESS
 2025-01-10 09:25:01 ERROR user=sara service=db ip=10.0.0.9 status=FAILED
 adding some contesnt
+nothing to change
+this is for reset
