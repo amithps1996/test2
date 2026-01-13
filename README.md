@@ -1,4 +1,4 @@
 **# test2**
-'''bash
+```bash
 sudo apt update
 
